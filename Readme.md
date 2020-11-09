@@ -8,4 +8,4 @@
 
 4. [java.util.ConcurrentModificationException](https://github.com/arajo-hub/Error_note/blob/master/201105.md)
 
-5. [ArrayList is a raw type. References to generic type ArrayList<E> should be parameterized](https://github.com/arajo-hub/Error_note/blob/master/201109.md)
+5. [java.lang.NullPointerException](https://github.com/arajo-hub/Error_note/blob/master/201109.md)
