@@ -10,4 +10,4 @@
 
 5. [java.lang.NullPointerException](https://github.com/arajo-hub/Error_note/blob/master/201109.md)
 
-6. [ORA-00942: table or view does not exist. 00942](https://github.com/arajo-hub/Error_note/blob/master/201201.md)
+6. [ORA-00942: table or view does not exist.](https://github.com/arajo-hub/Error_note/blob/master/201201.md)
